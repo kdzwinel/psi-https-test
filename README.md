@@ -2,8 +2,8 @@
 
 ## HTTP
 [HTTP version](http://kdzwinel.github.io/psi-https-test/index.html)
-![HTTP version](http://i.imgur.com/xvp9Hx8.png)
+![HTTP version](http://i.imgur.com/QdkpCyL.png)
 
 ## HTTPS
 [HTTPS version](https://kdzwinel.github.io/psi-https-test/index.html)
-![HTTPS version](http://i.imgur.com/DCQcvzc.png)
+![HTTPS version](http://i.imgur.com/CmFNHbD.png)
